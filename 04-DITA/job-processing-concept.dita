@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept id="job_processing">
+
+  <title>Automated job processing</title>
+
+  <conbody>
+    <p>
+      Automated job processing enables NovaFlow to execute
+      scheduled background operations without manual intervention.
+    </p>
+
+    <p>
+      Administrators can configure processing intervals,
+      retry behavior, and failure notifications.
+    </p>
+  </conbody>
+
+</concept>
