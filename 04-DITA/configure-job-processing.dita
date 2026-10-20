@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+
+<task id="configure_job_processing">
+
+  <title>Configure automated job processing</title>
+
+  <taskbody>
+
+    <prereq>
+      <p>You must have Administrator permissions.</p>
+    </prereq>
+
+    <steps>
+
+      <step>
+        <cmd>Go to Administration &gt; System Configuration.</cmd>
+      </step>
+
+      <step>
+        <cmd>Select Job Processing.</cmd>
+      </step>
+
+      <step>
+        <cmd>Enable Automated Processing.</cmd>
+      </step>
+
+      <step>
+        <cmd>Specify the processing interval.</cmd>
+      </step>
+
+      <step>
+        <cmd>Select Save.</cmd>
+      </step>
+
+    </steps>
+
+  </taskbody>
+
+</task>
