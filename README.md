@@ -34,7 +34,7 @@ Demonstrates:
 - Notes and warnings
 - Troubleshooting
 
-01-user-guide/managing-users-and-roles.md
+[01-user-guide/managing-users-and-roles.md](https://github.com/arunpandi-tw/technical-writing-portfolio/tree/main/01-user-guide)
 
 ---
 
