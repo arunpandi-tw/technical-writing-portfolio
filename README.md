@@ -51,7 +51,7 @@ Demonstrates:
 - Configuration examples
 - Troubleshooting
 
-02-configuration-guide/automated-job-processing.md
+[02-configuration-guide/automated-job-processing.md](https://github.com/arunpandi-tw/technical-writing-portfolio/tree/main/02-configuration-guide)
 
 ---
 
@@ -68,7 +68,7 @@ Demonstrates:
 - Configuration impacts
 - Upgrade considerations
 
-03-release-notes/release-notes-v4.6.md
+[03-release-notes/release-notes-v4.6.md](https://github.com/arunpandi-tw/technical-writing-portfolio/tree/main/03-release-notes)
 
 ---
 
@@ -83,7 +83,7 @@ Demonstrates:
 - Content reuse
 - Topic-based authoring
 
-04-dita-xml/README.md
+[04-dita-xml/README.md](https://github.com/arunpandi-tw/technical-writing-portfolio/tree/main/04-DITA)
 
 ---
 
@@ -98,7 +98,7 @@ Demonstrates:
 - Version control
 - Documentation CI/CD concepts
 
-05-docs-as-code/docs-as-code-workflow.md
+[05-docs-as-code/docs-as-code-workflow.md](https://github.com/arunpandi-tw/technical-writing-portfolio/tree/main/05-docs-as-code)
 
 ---
 
@@ -113,7 +113,7 @@ Demonstrates:
 - Terminology control
 - AI content governance
 
-06-ai-documentation/ai-assisted-documentation.md
+[06-ai-documentation/ai-assisted-documentation.md](https://github.com/arunpandi-tw/technical-writing-portfolio/tree/main/06-ai-documentation)
 
 ---
 
